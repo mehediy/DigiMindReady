@@ -120,27 +120,27 @@ DigiMindReady uses these free resources materials
 
 Taxonomy of Military Readiness
 
-<img width="710" alt="image" src="https://github.com/mehediy/DigiMindReady/Previews/Taxonomy.png">
+<img width="720" alt="image" src="https://github.com/mehediy/DigiMindReady/blob/main/Previews/Taxonomy.png">
 
 Military Digital Health Readiness mHealth Application System Framework
 
-<img width="710" alt="image" src="https://github.com/mehediy/DigiMindReady/Previews/Framework.png">
+<img style="max-width: 100%; height: auto;" alt="image" src="https://github.com/mehediy/DigiMindReady/blob/main/Previews/Framework.png">
 
 User Interface Flow: Authentication, Personalization Quiz, and Home Screen
 
-<img width="710" alt="image" src="https://github.com/mehediy/DigiMindReady/Previews/UIFlow.png">
+<img width="900" alt="image" src="https://github.com/mehediy/DigiMindReady/blob/main/Previews/UIFlow.png">
 
 EduScreen Repository Overview: Digital Education and Wellness Hub
 
-<img width="710" alt="image" src="https://github.com/mehediy/DigiMindReady/Previews/EduScreenRepository.png">
+<img width="900" alt="image" src="https://github.com/mehediy/DigiMindReady/blob/main/Previews/EduScreenRepository.png">
 
 Illustrations of Screen Time Tracking and Management by DigiMindReady
 
-<img width="710" alt="image" src="https://github.com/mehediy/DigiMindReady/Previews/ScreenTime.png">
+<img width="900" alt="image" src="https://github.com/mehediy/DigiMindReady/blob/main/Previews/ScreenTime.png">
 
 AI Advocator, Sleep Advocator, The Profile and Digital Reward sections by DigiMindReady
 
-<img width="710" alt="image" src="https://github.com/mehediy/DigiMindReady/Previews/AIAdvocator.png">
+<img width="900" alt="image" src="https://github.com/mehediy/DigiMindReady/blob/main/Previews/AIAdvocator.png">
 
 
 
