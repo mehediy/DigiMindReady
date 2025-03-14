@@ -1,0 +1,980 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "(470) 578-3803" : {
+
+    },
+    "[Wake screen] refers to the number of times the dark screen has been turned on to use the app.\n👉 You can also check the number of screen wake-ups in the [Settings] app → [Screen Time] → [View all activities]." : {
+
+    },
+    "%.f days ago" : {
+      "comment" : "Date format"
+    },
+    "%.f hours ago" : {
+      "comment" : "Date format"
+    },
+    "%.f minutes ago" : {
+      "comment" : "Date format"
+    },
+    "%.f months ago" : {
+      "comment" : "Date format"
+    },
+    "%.f seconds ago" : {
+      "comment" : "Date format"
+    },
+    "%.f weeks ago" : {
+      "comment" : "Date format"
+    },
+    "%.f years ago" : {
+      "comment" : "Date format"
+    },
+    "%@" : {
+
+    },
+    "%lld" : {
+
+    },
+    "%lld time(s)" : {
+
+    },
+    "%lld%%" : {
+
+    },
+    "👍" : {
+
+    },
+    "1 minute ago" : {
+      "comment" : "Date format"
+    },
+    "About Us" : {
+
+    },
+    "Adam Iter:" : {
+
+    },
+    "Add" : {
+
+    },
+    "Add Chat" : {
+
+    },
+    "Add model" : {
+
+    },
+    "Additional options:" : {
+
+    },
+    "Address" : {
+
+    },
+    "Address: 1100 South Marietta Pkwy SE, Marietta, GA 30060" : {
+
+    },
+    "AI Advocator" : {
+
+    },
+    "All audio files are downloaded from LibriVox, which provides free public domain audiobooks. LibriVox recordings are in the Public Domain in the USA. If you are accessing this from outside the USA, please verify the copyright status of these works in your own country before accessing, to ensure compliance with local copyright laws." : {
+
+    },
+    "All Document" : {
+
+    },
+    "All Guidelines" : {
+
+    },
+    "Article" : {
+
+    },
+    "Audio Book" : {
+
+    },
+    "Avalible adapters" : {
+
+    },
+    "Avalible datasets" : {
+
+    },
+    "Avalible models" : {
+
+    },
+    "Badge Earned" : {
+
+    },
+    "Basic:" : {
+
+    },
+    "BOS" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Chatbots" : {
+
+    },
+    "Chats" : {
+
+    },
+    "Check" : {
+
+    },
+    "Click to See all Achievements" : {
+
+    },
+    "Clip" : {
+
+    },
+    "Cognitive Game" : {
+
+    },
+    "Comments" : {
+
+    },
+    "Comments ( optional )" : {
+
+    },
+    "Comments / Feedback" : {
+
+    },
+    "Company" : {
+
+    },
+    "Company ( optional )" : {
+
+    },
+    "Contact Information" : {
+
+    },
+    "Contact Us" : {
+
+    },
+    "Context:" : {
+
+    },
+    "Copied!" : {
+
+    },
+    "Copy Link" : {
+
+    },
+    "count.." : {
+
+    },
+    "Delete" : {
+
+    },
+    "DigiMindReady" : {
+
+    },
+    "Digital Book" : {
+
+    },
+    "Digital Wellness Education" : {
+
+    },
+    "Done" : {
+
+    },
+    "Download models" : {
+
+    },
+    "Duplicate chat" : {
+
+    },
+    "Edit" : {
+
+    },
+    "Edit Chat" : {
+
+    },
+    "Edu Screen" : {
+
+    },
+    "Edu Screen Repository" : {
+
+    },
+    "Email Address" : {
+
+    },
+    "Email: " : {
+
+    },
+    "EOS" : {
+
+    },
+    "Export" : {
+
+    },
+    "Fine Tune" : {
+
+    },
+    "FineTune" : {
+
+    },
+    "For more information visit our website:" : {
+
+    },
+    "Format:" : {
+
+    },
+    "Get in Touch" : {
+
+    },
+    "Grammar sampling:" : {
+
+    },
+    "Hello, John Doe!" : {
+
+    },
+    "Hello, world!" : {
+
+    },
+    "Import from file..." : {
+
+    },
+    "in %.f days" : {
+      "comment" : "Date format"
+    },
+    "in %.f hours" : {
+      "comment" : "Date format"
+    },
+    "in %.f minutes" : {
+      "comment" : "Date format"
+    },
+    "in %.f months" : {
+      "comment" : "Date format"
+    },
+    "in %.f seconds" : {
+      "comment" : "Date format"
+    },
+    "in %.f weeks" : {
+      "comment" : "Date format"
+    },
+    "in %.f years" : {
+      "comment" : "Date format"
+    },
+    "in 1 minute" : {
+      "comment" : "Date format"
+    },
+    "in a few seconds" : {
+      "comment" : "Date format"
+    },
+    "Inference ggjt_v3:" : {
+
+    },
+    "Inference:" : {
+
+    },
+    "John Doe" : {
+
+    },
+    "just now" : {
+      "comment" : "Date format"
+    },
+    "last hour" : {
+      "comment" : "Date format"
+    },
+    "last month" : {
+      "comment" : "Date format"
+    },
+    "last week" : {
+      "comment" : "Date format"
+    },
+    "last year" : {
+      "comment" : "Date format"
+    },
+    "LLMFarm v%@\nAuthor Artem Savkin\n2024" : {
+
+    },
+    "Locally Typical N:" : {
+
+    },
+    "Log:" : {
+
+    },
+    "login.button.forgot.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forgot Password?"
+          }
+        }
+      }
+    },
+    "login.button.login" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log In"
+          }
+        }
+      }
+    },
+    "login.button.signup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign Up"
+          }
+        }
+      }
+    },
+    "login.picker.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Language"
+          }
+        }
+      }
+    },
+    "login.text.dont.have.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't have an account?"
+          }
+        }
+      }
+    },
+    "login.text.enterdetail" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please enter your details"
+          }
+        }
+      }
+    },
+    "login.text.hello" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello There!"
+          }
+        }
+      }
+    },
+    "login.text.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "login.text.username" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Username"
+          }
+        }
+      }
+    },
+    "LoRa" : {
+
+    },
+    "LoRA Adapters" : {
+
+    },
+    "LoRA file name..." : {
+
+    },
+    "Manage models" : {
+
+    },
+    "Merge Lora" : {
+
+    },
+    "Merge LoRA" : {
+
+    },
+    "Metal" : {
+
+    },
+    "mHealth Lab" : {
+
+    },
+    "Mirostat_eta:" : {
+
+    },
+    "Mirostat_tau:" : {
+
+    },
+    "MLock" : {
+
+    },
+    "MMap" : {
+
+    },
+    "Model:" : {
+
+    },
+    "Monitoring Time" : {
+
+    },
+    "My Achievements" : {
+
+    },
+    "My Profile Details" : {
+
+    },
+    "N_Batch:" : {
+
+    },
+    "Name" : {
+
+    },
+    "Name (optional)" : {
+
+    },
+    "Need a helping hand today?" : {
+
+    },
+    "New Game" : {
+
+    },
+    "New template name..." : {
+
+    },
+    "Next" : {
+
+    },
+    "next hour" : {
+      "comment" : "Date format"
+    },
+    "next month" : {
+      "comment" : "Date format"
+    },
+    "next week" : {
+      "comment" : "Date format"
+    },
+    "next year" : {
+      "comment" : "Date format"
+    },
+    "No Thanks. I'm good" : {
+
+    },
+    "nsakib1@kennesaw.edu" : {
+
+    },
+    "Offline Game" : {
+
+    },
+    "Ok" : {
+
+    },
+    "OK" : {
+
+    },
+    "Overall Progress" : {
+
+    },
+    "Personal Information" : {
+
+    },
+    "Phone: " : {
+
+    },
+    "Pick as many as you want" : {
+
+    },
+    "Prediction options:" : {
+
+    },
+    "Previous" : {
+
+    },
+    "Profile" : {
+
+    },
+    "profile.row.about.us" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Us"
+          }
+        }
+      }
+    },
+    "profile.row.change.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Password"
+          }
+        }
+      }
+    },
+    "profile.row.contact.us" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contact Us"
+          }
+        }
+      }
+    },
+    "profile.row.faq" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        }
+      }
+    },
+    "profile.row.language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Language"
+          }
+        }
+      }
+    },
+    "profile.row.log.out" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Out"
+          }
+        }
+      }
+    },
+    "profile.row.my.profile" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Profile"
+          }
+        }
+      }
+    },
+    "profile.row.privacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        }
+      }
+    },
+    "profile.row.submit.survey" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Submit a Survey"
+          }
+        }
+      }
+    },
+    "profile.row.terms" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms & Conditions"
+          }
+        }
+      }
+    },
+    "profile.row.version" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        }
+      }
+    },
+    "Prompt format:" : {
+
+    },
+    "prompt.." : {
+
+    },
+    "Quantization" : {
+
+    },
+    "Remind Me Later" : {
+
+    },
+    "Remove chat" : {
+
+    },
+    "Repeat last N:" : {
+
+    },
+    "Repeat Penalty:" : {
+
+    },
+    "Result model name..." : {
+
+    },
+    "Retake Survey" : {
+
+    },
+    "Reverse prompts:" : {
+
+    },
+    "Run finetune" : {
+
+    },
+    "Sampling options:" : {
+
+    },
+    "Sampling:" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save as new template:" : {
+
+    },
+    "Save/Load State" : {
+
+    },
+    "Saved." : {
+
+    },
+    "Scale:" : {
+
+    },
+    "scale.." : {
+
+    },
+    "Scale.." : {
+
+    },
+    "Score" : {
+
+    },
+    "Screen Distance" : {
+
+    },
+    "Screen Time" : {
+
+    },
+    "Screen Time Guidelines" : {
+
+    },
+    "Screen Time Report" : {
+
+    },
+    "Screen Time Schedule" : {
+
+    },
+    "SegmentedNavBarView" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Settings template:" : {
+
+    },
+    "Shezad Ahamed" : {
+
+    },
+    "shezadahamed@example.com" : {
+
+    },
+    "signup.button.signin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign In"
+          }
+        }
+      }
+    },
+    "signup.button.signup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign Up"
+          }
+        }
+      }
+    },
+    "signup.text.confirm.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm Password"
+          }
+        }
+      }
+    },
+    "signup.text.create.new.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create your new account"
+          }
+        }
+      }
+    },
+    "signup.text.email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "signup.text.have.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Have account?"
+          }
+        }
+      }
+    },
+    "signup.text.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "signup.text.register" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Register"
+          }
+        }
+      }
+    },
+    "signup.text.username" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Username"
+          }
+        }
+      }
+    },
+    "size.." : {
+
+    },
+    "Skip tokens:" : {
+
+    },
+    "Sleep Advocator" : {
+
+    },
+    "Special" : {
+
+    },
+    "Start new chat" : {
+
+    },
+    "tab.advocator" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Advocator"
+          }
+        }
+      }
+    },
+    "tab.eduScreen" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edu Screen"
+          }
+        }
+      }
+    },
+    "tab.home" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "tab.profile" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "tab.screenTime" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screen Time"
+          }
+        }
+      }
+    },
+    "Tail Free Z:" : {
+
+    },
+    "Temp:" : {
+
+    },
+    "Thanks!" : {
+
+    },
+    "Threads:" : {
+
+    },
+    "Title..." : {
+
+    },
+    "To create a  chat, first select a model." : {
+
+    },
+    "tomorrow" : {
+      "comment" : "Date format"
+    },
+    "Top_k:" : {
+
+    },
+    "Top_p:" : {
+
+    },
+    "Total screen time usage time" : {
+
+    },
+    "Trophy Awarded" : {
+
+    },
+    "Unknown status" : {
+
+    },
+    "Use Checkpointing" : {
+
+    },
+    "Use Metal" : {
+
+    },
+    "val.." : {
+
+    },
+    "Video" : {
+
+    },
+    "Virtual Bookshelf" : {
+
+    },
+    "Wake screen" : {
+
+    },
+    "We really appreciate your feedback!" : {
+
+    },
+    "We'd love to hear from you! Whether you have a question about our mHealth project, or anything else, our research team is ready to answer all your questions." : {
+
+    },
+    "Welcome  👋" : {
+
+    },
+    "Welcome to the mHealth Research Lab at Kennesaw State University's College of Computing and Software Engineering, led by Dr. Nazmus Sakib. Our dedicated group focuses on developing cutting-edge mHealth systems, spanning web, iOS, and Android applications, to tackle pressing healthcare challenges in collaboration with a wide range of experts. Our interest lies in Healthcare Informatics, AI and Machine Learning for Healthcare, Medical and Healthcare Security and Privacy, Health Disparities and Social Determinants of Health, Optimization Research for Healthcare, Alzheimer's and Dementia, and Infant Biomechanics and Development. Join us as we work towards revolutionizing healthcare through innovative research and solutions!" : {
+
+    },
+    "When monitoring is stopped, the time and app you set will be reset." : {
+
+    },
+    "When permission is removed, the schedule is also removed." : {
+
+    },
+    "x%lld" : {
+
+    },
+    "yesterday" : {
+      "comment" : "Date format"
+    },
+    "You" : {
+
+    }
+  },
+  "version" : "1.0"
+}

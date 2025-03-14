@@ -1,0 +1,10 @@
+//
+//  shared.xcconfig
+//  DigiMindReady
+//
+//  Created by Md Mehedi Hasan on 4/22/24.
+//
+
+
+// App Group
+APP_GROUP_NAME = group.edu.kennesaw.DigiMindReady

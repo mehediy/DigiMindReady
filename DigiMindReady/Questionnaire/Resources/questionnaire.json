@@ -1,0 +1,137 @@
+{
+    "questions": [
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "Which branch of the military do you serve in?",
+            "tag": "military-branch",
+            "options": [
+                "Army",
+                "Navy",
+                "Air Force",
+                "Marine Corps",
+                "Coast Guard"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "How old are you?",
+            "tag": "age-range",
+            "options": [
+                "18-25",
+                "26-35",
+                "36-45",
+                "46-55",
+                "Over 55"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "What's your role in the military?",
+            "tag": "occupation",
+            "options": [
+                "Infantry",
+                "Aviation",
+                "Medical",
+                "Engineering",
+                "Logistics",
+                "Administration",
+                "Others"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "How do you feel about your current screen time?",
+            "tag": "screen-time-satisfaction",
+            "options": [
+                "Very satisfied",
+                "Satisfied",
+                "Neutral",
+                "Unsatisfied",
+                "Very unsatisfied"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "On average, how many hours do you spend on your phone daily?",
+            "tag": "daily-screen-time",
+            "options": [
+                "Less than 1 hour",
+                "1-2 hours",
+                "3-4 hours",
+                "5-6 hours",
+                "7-8 hours",
+                "More than 8 hours"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": true,
+            "title": "Identify the apps that waste most of your time.",
+            "tag": "negative-screen-time-apps",
+            "options": [
+                "Social media",
+                "Video streaming",
+                "Music and Podcast Apps",
+                "Games",
+                "Dating Apps",
+                "News",
+                "Education",
+                "Others"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "How motivated are you to to improve your work productivity??",
+            "tag": "work-productivity-motivation",
+            "options": [
+                "Very motivated",
+                "Neutral",
+                "Not motivated"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "What times of day do you typically use your phone the most?",
+            "tag": "phone-use-time",
+            "options": [
+                "Morning",
+                "Afternoon",
+                "Evening",
+                "Late night"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "How often do you engage in physical activities?",
+            "tag": "physical-activity-frequency",
+            "options": [
+                "Daily",
+                "Several times a week",
+                "Once a week",
+                "Rarely",
+                "Never"
+            ]
+        },
+        {
+            "type": "mcq",
+            "multiSelect": false,
+            "title": "Do you have any existing sleep issues you would like the app to consider?",
+            "tag": "sleep-issues",
+            "options": [
+                "Insomnia",
+                "Frequent awakenings",
+                "Sleep apnea",
+                "None",
+                "Other"
+            ]
+        }
+    ]
+}
